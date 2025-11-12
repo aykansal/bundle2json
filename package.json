@@ -1,0 +1,38 @@
+{
+  "name": "bundle2json",
+  "version": "1.0.0",
+  "description": "Bundle any files (HTML, CSS, JS, etc.) into a single JSON object using Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [
+    "json",
+    "bundle",
+    "html",
+    "css",
+    "js",
+    "combine",
+    "nodejs",
+    "utility",
+    "files"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aykansal/bundle2json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aykansal/bundle2json/issues"
+  },
+  "homepage": "https://github.com/aykansal/bundle2json#readme",
+  "author": {
+    "name": "Ayush Kansal (aykansal)",
+    "url": "https://github.com/aykansal"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
