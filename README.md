@@ -17,7 +17,7 @@ npm install bundle2json
 ## Usage
 
 ```js
-const { combineToJson } = require('bundle2json');
+const { bundle2json } = require('bundle2json');
 
 combineToJson({
   htmlPath: 'index.html',
