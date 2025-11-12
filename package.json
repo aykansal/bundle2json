@@ -1,6 +1,6 @@
 {
   "name": "bundle2json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bundle any files (HTML, CSS, JS, etc.) into a single JSON object using Node.js.",
   "main": "index.js",
   "scripts": {
